@@ -303,4 +303,4 @@ mini-project-3/
 ## 👤 Author
 **[Johit_Kumar]**
 Mini Project 3 — Customer Shopping Behavior Analysis (SQL + Python + Power BI)
-🔗 LinkedIn: [your-linkedin-url-here]
+🔗 LinkedIn: [(https://www.linkedin.com/feed/update/urn:li:activity:7483377153418469377/)]
